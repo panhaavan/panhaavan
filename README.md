@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Panha Van</h1>
-<h3 align="center">A junior majoring Computer Science.</h3>
 <p align="center">
   <img alt="Coding" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="450" width="450" >
 </p>
