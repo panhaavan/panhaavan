@@ -2,9 +2,7 @@
   <img alt="Coding" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="450" width="450" >
 </p>
 
-- 🔭 I’m a junior majoring Computer Science at [Royal University of Phnom Penh.](https://www.rupp.edu.kh/)
-
-- 🌱 I’m currently learning **Website Development**
+- 🌱 Stay strong just **keep going**
 
 - 📫 Mail to me **panha.itman@gmail.com**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=panhaavan&label=Profile%20views&color=0e75b6&style=flat" alt="panhaavan" /> </p>
